@@ -20,10 +20,4 @@ def binarySearchRecursive(arr,low,high,x):
         
     return -1
 
-
-arr = [2,3,4,10,1]
-x=2
-result = binarySearchRecursive(arr,0,len(arr)-1,x)
-print(result)
-
-
+#iterative bina
